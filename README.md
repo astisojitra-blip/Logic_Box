@@ -1,5 +1,5 @@
 **Name:** Asti Sojitra  
-**Assignment:** Practical Assignment  
+**Assignment:** Practical Assignment
   
 # Logic Box  
   
