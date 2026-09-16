@@ -9,7 +9,7 @@ Logic Box is a Python console-based project called Pattern Generator and Number 
   
 ## Features  
   
-### Pattern Generator  
+### Pattern Generator
 - Generates a right-angled triangle pattern.  
 - Takes the number of rows as input.  
 - Uses nested loops to generate the pattern.  
